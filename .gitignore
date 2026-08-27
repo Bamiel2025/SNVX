@@ -1,0 +1,5 @@
+.qodo/
+.qodo/**
+*.log
+.DS_Store
+Thumbs.db
